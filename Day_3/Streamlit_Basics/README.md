@@ -1,6 +1,4 @@
-# Streamlit Basics - Teaching Materials
-
-This folder contains progressive examples to teach Streamlit fundamentals to experienced tech professionals.
+# Streamlit Basics 
 
 ## Learning Sequence
 
