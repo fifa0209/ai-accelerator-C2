@@ -2,7 +2,7 @@
 
 This folder contains progressive examples to teach Streamlit fundamentals to experienced tech professionals.
 
-## Teaching Sequence
+## Learning Sequence
 
 1. **01_hello_world.py** - Basic app structure and script execution model
 2. **02_session_state.py** - Understanding persistence across reruns
@@ -10,7 +10,7 @@ This folder contains progressive examples to teach Streamlit fundamentals to exp
 4. **04_sidebar_widgets.py** - User controls and configuration
 5. **05_complete_example.py** - Putting it all together
 
-## Key Concepts to Emphasize
+## Key Concepts to Remember
 
 - **Script Execution Model**: Top-to-bottom execution on every interaction
 - **Session State**: The persistence layer that survives reruns
@@ -24,4 +24,4 @@ pip install streamlit
 streamlit run 01_hello_world.py
 ```
 
-Each example builds upon the previous one, introducing new concepts incrementally.
+Each example builds upon the previous one, introducing new learnings incrementally.
